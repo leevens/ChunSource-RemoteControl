@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Document_File_128px_1072799_easyicon.net.ico</file>
+        <file>keyboard_128px_1225693_easyicon.net.ico</file>
+        <file>screen_128px_1222102_easyicon.net.ico</file>
+        <file>system_128px_580135_easyicon.net.ico</file>
+        <file>Terminal_cmd_128px_1100558_easyicon.net.ico</file>
+        <file>Minimize_Window_128px_1178220_easyicon.net.ico</file>
+        <file>exit_quit_24px_16971_easyicon.net.ico</file>
+    </qresource>
+</RCC>
